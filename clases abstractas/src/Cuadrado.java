@@ -1,3 +1,8 @@
+/**
+ * 
+ * @author ruben
+ * Vamos a modificar el repositorio de JesÃºs Chicano
+ */
 public class Cuadrado extends Figura {
 
 	private int lado;
@@ -14,6 +19,6 @@ public class Cuadrado extends Figura {
 
 	@Override
 	void area() {
-		System.out.println("El área del cuadrado es: " + lado * 2);
+		System.out.println("El ï¿½rea del cuadrado es: " + lado * 2);
 	}
 }
